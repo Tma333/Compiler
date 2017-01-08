@@ -1,0 +1,5 @@
+
+Symbol Table
+Mem Location	Identifier	Type
+
+INSTRUCTION TABLE

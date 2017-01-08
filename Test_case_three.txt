@@ -1,0 +1,23 @@
+/* Test Case Three > 20 lines */
+
+/* Function definition disabled for assignment 3 */
+@@
+int a, b, c;
+boolean one, two;
+int x;
+int i, max, sum;
+@@
+if (a<b) a:= c; else c:= a+b; endif
+while (i < max) i := i + 1;
+read(max);
+while(i<max){
+i:=i+1;
+}
+write (sum+max);
+sum := 0;
+read (one, two);
+while(a>c)
+{
+write (two);
+}
+if (c != b) a:=b; endif

@@ -1,0 +1,15 @@
+/* Test Case Two < 20 lines */
+
+/* Function definition disabled for assignment 3 */
+@@
+int a, b, c;
+boolean one, two;
+int x;
+@@
+while( a < b) a:= b + c;
+x := c + b * a;
+read (one, two);
+while( a != b)
+{
+	write(b);
+}
